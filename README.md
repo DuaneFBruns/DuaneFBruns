@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuaneFBruns
-- 👀 I’m interested in Arduino, Esp32, Home automation, cnc, and to mmany other things.
+- 👀 I’m interested in Arduino, Esp32, Home automation, cnc, and to many other things.
 - 🌱 I’m currently learning microcontrollers.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
